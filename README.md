@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Daniel Quilcue and I'm a Front-end Developer from Colombia 🇨🇴</h2>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<h2 align="">Hi 👋! My name is Daniel Quilcue and I'm a Front-end Developer from Colombia 🇨🇴</h2>
 
 <p align="left">
 🎯 I'm passionate about crafting elegant interfaces and creating meaningful digital experiences.<br>
